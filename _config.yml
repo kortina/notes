@@ -1,9 +1,9 @@
 # Site settings
-title: Jekyll Computer Modern Theme
+title: "Notes -- Andrew Kortina"
 tagline: '...'
-url: 'https://kortina.nyc/jekyll-computer-modern-theme' # The base hostname & protocol for your site. Use it if you need absolute URL's. This should NOT end in a `/` character
-permalink: /posts/:title/
-author: author
+url: 'https://kortina.nyc/notes' # The base hostname & protocol for your site. Use it if you need absolute URL's. This should NOT end in a `/` character
+permalink: /n/:title/
+author: kortina
 socialimg: ''
 
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
