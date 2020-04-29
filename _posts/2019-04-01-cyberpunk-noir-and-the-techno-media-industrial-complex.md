@@ -107,17 +107,17 @@ I already mentioned [Akira](https://g.co/kgs/C5W3zf), one of my favorite cyberpu
 
 Finally, I would be remiss if I did not include a few cyberpunk books. I personally think a lot of the movies are better, but here are some of the novels I like:
 
-[Brave New World](https://www.amazon.com/Brave-New-World/dp/B0012QED5Y/ref=sr_1_2?tag=kortina0e-20) (1932). This *soma* drug sounds familiar, but Huxley didn’t anticipate it would be administered via mobile computing devices..
+[Brave New World](https://www.amazon.com/Brave-New-World/dp/B0012QED5Y/ref=sr_1_2?tag={{ site.amazon_tag }}) (1932). This *soma* drug sounds familiar, but Huxley didn’t anticipate it would be administered via mobile computing devices..
 
-[1984](https://www.amazon.com/1984-New-Classic-Edition/dp/B000Q6ZLOI/ref=sr_1_1?tag=kortina0e-20) (1949). I think *Brave New World* rings a bit more true to the opt-in slavery of the 21st century, but you can’t not mention 1984 on a list like this.
+[1984](https://www.amazon.com/1984-New-Classic-Edition/dp/B000Q6ZLOI/ref=sr_1_1?tag={{ site.amazon_tag }}) (1949). I think *Brave New World* rings a bit more true to the opt-in slavery of the 21st century, but you can’t not mention 1984 on a list like this.
 
-[Nexus](https://www.amazon.com/Nexus-Arc-Book-1/dp/0857662937?tag=kortina0e-20) (2012). Of all the modern cyberpunk I’ve read, this may be my favorite. Also, [Ramez Naam](https://twitter.com/ramez?lang=en) is definitely worth following.
+[Nexus](https://www.amazon.com/Nexus-Arc-Book-1/dp/0857662937?tag={{ site.amazon_tag }}) (2012). Of all the modern cyberpunk I’ve read, this may be my favorite. Also, [Ramez Naam](https://twitter.com/ramez?lang=en) is definitely worth following.
 
-[Player Piano](https://www.amazon.com/Unknown-Player-Piano/dp/B001D1ILD8/ref=sr_1_1?tag=kortina0e-20) (1980). Very good read on automation and labor politics, from Kurt Vonnegut.
+[Player Piano](https://www.amazon.com/Unknown-Player-Piano/dp/B001D1ILD8/ref=sr_1_1?tag={{ site.amazon_tag }}) (1980). Very good read on automation and labor politics, from Kurt Vonnegut.
 
-[The Diamond Age](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966?tag=kortina0e-20) (2000). I really don’t care for Neal Stephenson’s prose at all — he is one of those sci-fi writers who has a lot of really amazing ideas and thought experiments, but boy are his books tough to get through. [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958/ref=pd_bxgy_img_2/135-5537369-5082233?tag=kortina0e-20) and [Cryptonomicon](https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380788624/ref=pd_bxgy_img_3/135-5537369-5082233?tag=kortina0e-20) are his other 2 famous books. If you are really looking for some classics, maybe try out of one of them, but I think they are pretty polarizing.
+[The Diamond Age](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966?tag={{ site.amazon_tag }}) (2000). I really don’t care for Neal Stephenson’s prose at all — he is one of those sci-fi writers who has a lot of really amazing ideas and thought experiments, but boy are his books tough to get through. [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958/ref=pd_bxgy_img_2/135-5537369-5082233?tag={{ site.amazon_tag }}) and [Cryptonomicon](https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380788624/ref=pd_bxgy_img_3/135-5537369-5082233?tag={{ site.amazon_tag }}) are his other 2 famous books. If you are really looking for some classics, maybe try out of one of them, but I think they are pretty polarizing.
 
-[Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595?tag=kortina0e-20) (1986). Gibson is the other classic cyberpunk novelist of the 80s. This is the only one of his I have read. It’s decent.
+[Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595?tag={{ site.amazon_tag }}) (1986). Gibson is the other classic cyberpunk novelist of the 80s. This is the only one of his I have read. It’s decent.
 
 ---
 

@@ -8,7 +8,7 @@ author: "kortina"
 
 ![The Mushroom at the End of the World.](https://cdn-images-1.medium.com/max/600/0*YRSZ3jDoluMje_Vd)
 
-Anna Lowenharupt Tsing’s [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins](https://www.amazon.com/Mushroom-End-World-Possibility-Capitalist/dp/0691162751?tag=kortina0e-20) is a story about matsutake mushroom economies and a parable about capitalism.
+Anna Lowenharupt Tsing’s [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins](https://www.amazon.com/Mushroom-End-World-Possibility-Capitalist/dp/0691162751?tag={{ site.amazon_tag }}) is a story about matsutake mushroom economies and a parable about capitalism.
 
 While I love the idea of looking at what grows in the ruins or cracks in the sidewalk (Lot Radio in Brooklyn comes to mind, wildflowers in West Oakland, street art), and there was a lot to like about this book, it read surprisingly optimistically to me.
 
@@ -50,7 +50,7 @@ Contaminated diversity resists summing up:
 
 ---
 
-I’m not sure this book completely changed my mind about anything, but it is a good, short case study of late capitalism that I would recommend reading: [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins](https://www.amazon.com/Mushroom-End-World-Possibility-Capitalist/dp/0691162751?tag=kortina0e-20).
+I’m not sure this book completely changed my mind about anything, but it is a good, short case study of late capitalism that I would recommend reading: [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins](https://www.amazon.com/Mushroom-End-World-Possibility-Capitalist/dp/0691162751?tag={{ site.amazon_tag }}).
 
 ---
 

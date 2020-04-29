@@ -8,7 +8,7 @@ author: "kortina"
 
 ![Walter Lippmann](https://cdn-images-1.medium.com/max/600/0*jqpQeVrKEqjMl4Lr.jpg)
 
-Prediction: Walter Lippmann’s [Public Opinion](https://www.amazon.com/Public-Opinion-Walter-Lippmann/dp/0684833271?tag=kortina0e-20) will be my favorite book of 2020.
+Prediction: Walter Lippmann’s [Public Opinion](https://www.amazon.com/Public-Opinion-Walter-Lippmann/dp/0684833271?tag={{ site.amazon_tag }}) will be my favorite book of 2020.
 
 This is another book like Hannah Arendt’s [On Revolution](https://medium.com/@kortina/on-revolution-aafb6b2327d3) that I immediately re-read upon finishing.
 
@@ -272,7 +272,7 @@ Insistence on procedure (of public discourse) is the only possible public opinio
 
 ---
 
-I cannot recommend Walter Lippmann’s [Public Opinion](https://www.amazon.com/Public-Opinion-Walter-Lippmann/dp/0684833271?tag=kortina0e-20) highly enough.
+I cannot recommend Walter Lippmann’s [Public Opinion](https://www.amazon.com/Public-Opinion-Walter-Lippmann/dp/0684833271?tag={{ site.amazon_tag }}) highly enough.
 
 You may also enjoy:
 

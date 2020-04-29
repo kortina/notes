@@ -6,13 +6,13 @@ author: "kortina"
 ---
 
 
-A friend who had recently read some of my blog posts (eg, [Consciousness as Computation](https://kortina.nyc/essays/consciousness-as-computation-learning-from-deep-learning-and-information-theory/), [Social Systems are Computations that Minimize Uncertainty](https://kortina.nyc/essays/social-systems-are-computations-that-minimize-uncertainty/)) just loaned me a copy of [Angels Fear: Towards an Epistemology of the Sacred](http://www.amazon.com/dp/1572735945/?tag=kortina0e-20), by Gregory and Mary Catherine Bateson (the authors acknowledge the hubris of the title / topic in the book).
+A friend who had recently read some of my blog posts (eg, [Consciousness as Computation](https://kortina.nyc/essays/consciousness-as-computation-learning-from-deep-learning-and-information-theory/), [Social Systems are Computations that Minimize Uncertainty](https://kortina.nyc/essays/social-systems-are-computations-that-minimize-uncertainty/)) just loaned me a copy of [Angels Fear: Towards an Epistemology of the Sacred](http://www.amazon.com/dp/1572735945/?tag={{ site.amazon_tag }}), by Gregory and Mary Catherine Bateson (the authors acknowledge the hubris of the title / topic in the book).
 
 ![](https://cdn-images-1.medium.com/max/600/0*isTQGEuvUwjUogAx.jpg)
 *Angels Fear.*
 Written by a father & daughter, both of whom were anthropologists, the book touches on a wide variety of domains — anthropology, philosophy, engineering, cybernetics, information theory, computation, systems thinking, biology, mythology, religion — exactly my kind of book. Gregory Bateson spent a bunch of time as a resident at Esalen, and the first 30 pages or so of the book are new-age-y enough that you might be tempted to put it down pretty quickly, but the majority of the book is quite worthwhile if you’re interested in any of these sundry topics (and especially if you’re interested in the intersection of these / cross disciplinary thinking).
 
-*Angels Fear* immediately called to mind two other books for me. There’s quite a bit of consideration about the limits of knowledge and problems of recursiveness that recall Douglas Hofstadter’s [Gödel, Escher, Bach](http://www.amazon.com/dp/0465026567/?tag=kortina0e-20), and there is a bunch of systems thinking (eg, a consideration of how a resident uses a thermostat to govern temperature of a home) that recalls Donella Meadows’ [Thinking in Systems](http://www.amazon.com/dp/1603580557/?tag=kortina0e-20). So if you enjoyed either of these, you may like *Angels Fear*.
+*Angels Fear* immediately called to mind two other books for me. There’s quite a bit of consideration about the limits of knowledge and problems of recursiveness that recall Douglas Hofstadter’s [Gödel, Escher, Bach](http://www.amazon.com/dp/0465026567/?tag={{ site.amazon_tag }}), and there is a bunch of systems thinking (eg, a consideration of how a resident uses a thermostat to govern temperature of a home) that recalls Donella Meadows’ [Thinking in Systems](http://www.amazon.com/dp/1603580557/?tag={{ site.amazon_tag }}). So if you enjoyed either of these, you may like *Angels Fear*.
 
 *Some of my favorite passages…*
 
@@ -113,7 +113,7 @@ On freedom vs responsibility:
 
 ---
 
-If you find these bits interesting, you will probably enjoy the full book (it’s a fast read): [Angels Fear: Towards an Epistemology of the Sacred](http://www.amazon.com/dp/1572735945/?tag=kortina0e-20). You may also enjoy these blog posts:
+If you find these bits interesting, you will probably enjoy the full book (it’s a fast read): [Angels Fear: Towards an Epistemology of the Sacred](http://www.amazon.com/dp/1572735945/?tag={{ site.amazon_tag }}). You may also enjoy these blog posts:
 [Consciousness as Computation](https://kortina.nyc/essays/consciousness-as-computation-learning-from-deep-learning-and-information-theory/)
 [Social Systems are Computations that Minimize Uncertainty](https://kortina.nyc/essays/social-systems-are-computations-that-minimize-uncertainty/)
 

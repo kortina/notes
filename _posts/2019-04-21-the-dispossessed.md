@@ -12,7 +12,7 @@ I first came across Ursula K. Le Guin when I read [The Ones Who Walk Away from O
 
 Over the years, I’ve seen lots of references to her essays and read those: [The Carrier Bag Theory of Fiction](https://www.trabal.org/texts/pdf/LeGuin.pdf), the [introduction to the Left Hand of Darkness](http://theliterarylink.com/leguinintro.html), etc.
 
-[The Dispossessed](https://www.amazon.com/The-Dispossessed-A-Novel/dp/B00435FFYE/ref=tmm_aud_swatch_0?tag=kortina0e-20) explores different modes of organization civilization, specifically teasing out the second order effects, cultural mores, and failure modes of a capitalist state and communist state.
+[The Dispossessed](https://www.amazon.com/The-Dispossessed-A-Novel/dp/B00435FFYE/ref=tmm_aud_swatch_0?tag={{ site.amazon_tag }}) explores different modes of organization civilization, specifically teasing out the second order effects, cultural mores, and failure modes of a capitalist state and communist state.
 
 Some interesting bits…
 
@@ -32,5 +32,5 @@ I’ve been reading a lot of fairly academic political / economic theory, so it 
 
 ---
 
-Another sci-fi treatment on the related topic of automation and labor politics that comes to mind / is worth mentioning is Kurt Vonnegut’s [Player Piano](https://www.amazon.com/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781?tag=kortina0e-20). And for a modern take on the same issues in film format: Bootes Riley’s [Sorry to Bother You](https://g.co/kgs/gk9gvZ).
+Another sci-fi treatment on the related topic of automation and labor politics that comes to mind / is worth mentioning is Kurt Vonnegut’s [Player Piano](https://www.amazon.com/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781?tag={{ site.amazon_tag }}). And for a modern take on the same issues in film format: Bootes Riley’s [Sorry to Bother You](https://g.co/kgs/gk9gvZ).
 

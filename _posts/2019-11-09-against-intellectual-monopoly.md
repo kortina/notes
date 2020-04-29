@@ -8,7 +8,7 @@ author: "kortina"
 
 ![Against Intellectual Monopoly](https://cdn-images-1.medium.com/max/600/0*Dr8MuDYEYUQk5Iqn.jpg)
 
-Boldrin and Levine’s [Against Intellectual Monopoly](https://www.amazon.com/Against-Intellectual-Monopoly-Michele-Boldrin/dp/0521879280?tag=kortina0e-20) has been on my list of books to read for a while, and I was excited to finally get around to it (in response to hearing more and more discussions of broadening IP / private property / monopoly rights to cover any sort of data).
+Boldrin and Levine’s [Against Intellectual Monopoly](https://www.amazon.com/Against-Intellectual-Monopoly-Michele-Boldrin/dp/0521879280?tag={{ site.amazon_tag }}) has been on my list of books to read for a while, and I was excited to finally get around to it (in response to hearing more and more discussions of broadening IP / private property / monopoly rights to cover any sort of data).
 
 I was kind of hoping for a steel man argument for why IP exists at all, followed by a rigorous critique, and then a survey of all the best alternatives.
 

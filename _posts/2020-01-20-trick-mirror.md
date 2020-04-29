@@ -9,7 +9,7 @@ author: "kortina"
 ![Trick Mirror](https://cdn-images-1.medium.com/max/600/0*dGcCThaYurLNZiJW.jpg)
 
 
-Jia Tolentino’s [Trick Mirror: Reflections on Self-Delusion](https://www.amazon.com/Trick-Mirror-Reflections-on-Self-Delusion/dp/B07RHR61FL/ref=tmm_aud_swatch_0?tag=kortina0e-20) hits on a lot of the topics I love to write about myself — self-delusion (per the title), optimization run-amuck, internet culture, media theory, the absurdities of consumer capitalism.
+Jia Tolentino’s [Trick Mirror: Reflections on Self-Delusion](https://www.amazon.com/Trick-Mirror-Reflections-on-Self-Delusion/dp/B07RHR61FL/ref=tmm_aud_swatch_0?tag={{ site.amazon_tag }}) hits on a lot of the topics I love to write about myself — self-delusion (per the title), optimization run-amuck, internet culture, media theory, the absurdities of consumer capitalism.
 
 What I find particularly compelling about her treatment of these subjects is her ability to examine the broader implications of 21st century media/capital culture through the lens of her own experiences. I highly recommend the book, esp. *The History of a Generation in Seven Scams, Always be Optimizing, *and *The I in Internet.*
 

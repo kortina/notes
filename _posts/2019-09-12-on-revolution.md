@@ -8,7 +8,7 @@ author: "kortina"
 
 ![On Revolution](https://cdn-images-1.medium.com/max/600/0*-1Ow21FPddorbZuP.jpg)
 
-Hannah Arendt’s [On Revolution](https://www.amazon.com/On-Revolution-dp-B075FCPP4C/dp/B075FCPP4C/ref=mt_audio_download?tag=kortina0e-20) is one of those books that I reread immediately after I finished it.
+Hannah Arendt’s [On Revolution](https://www.amazon.com/On-Revolution-dp-B075FCPP4C/dp/B075FCPP4C/ref=mt_audio_download?tag={{ site.amazon_tag }}) is one of those books that I reread immediately after I finished it.
 
 I think it might be more appropriately named “On Revolution and Constitution,” as it is far less about the means of tearing down an existing regime (what I usually picture when I hear revolution) and much more about how to justify the authority and powers of a brand new government, without making appeals to the old regime or to divinity or to history.
 
@@ -84,7 +84,7 @@ Arendt concludes brilliantly with the words of Sophocles:
 
 ---
 
-I cannot recommend highly enough Hannah Arendt’s [On Revolution](https://www.amazon.com/On-Revolution-dp-B075FCPP4C/dp/B075FCPP4C/ref=mt_audio_download?tag=kortina0e-20). In a world of crumbling institutional authority, with power up for grabs and revolution in the air, it is a must read.
+I cannot recommend highly enough Hannah Arendt’s [On Revolution](https://www.amazon.com/On-Revolution-dp-B075FCPP4C/dp/B075FCPP4C/ref=mt_audio_download?tag={{ site.amazon_tag }}). In a world of crumbling institutional authority, with power up for grabs and revolution in the air, it is a must read.
 
 ---
 

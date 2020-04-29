@@ -8,9 +8,9 @@ author: "kortina"
 
 ![Journey to the End of the Night](https://cdn-images-1.medium.com/max/600/0*pGbD3gJ3rfpCKrxE.jpg)
 
-Louis-Ferdinand Céline’s [Journey to the End of the Night](https://www.amazon.com/Journey-End-Night/dp/B01KIAFCP4/ref=tmm_aud_swatch_0?tag=kortina0e-20) is an unflinching gaze into the abyss, one of the bleakest, most brutally honest novels I have read.
+Louis-Ferdinand Céline’s [Journey to the End of the Night](https://www.amazon.com/Journey-End-Night/dp/B01KIAFCP4/ref=tmm_aud_swatch_0?tag={{ site.amazon_tag }}) is an unflinching gaze into the abyss, one of the bleakest, most brutally honest novels I have read.
 
-It recalls Conrad’s [Heart of Darkness](https://www.amazon.com/Heart-Darkness-Joseph-Conrad/dp/1936594145?tag=kortina0e-20) or Cormac McCarthy’s [Blood Meridien](https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/B000QUEM6M/ref=sr_1_1?tag=kortina0e-20), but I found it more disturbing than either, I because instead of focusing on the darkness of the wild / jungle / desert / violence, it examines the abandonment of all human decency within civilization.
+It recalls Conrad’s [Heart of Darkness](https://www.amazon.com/Heart-Darkness-Joseph-Conrad/dp/1936594145?tag={{ site.amazon_tag }}) or Cormac McCarthy’s [Blood Meridien](https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/B000QUEM6M/ref=sr_1_1?tag={{ site.amazon_tag }}), but I found it more disturbing than either, I because instead of focusing on the darkness of the wild / jungle / desert / violence, it examines the abandonment of all human decency within civilization.
 
 Few books capture misanthropic despair so honestly.
 

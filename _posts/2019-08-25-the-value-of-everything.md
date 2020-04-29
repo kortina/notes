@@ -8,7 +8,7 @@ author: "kortina"
 
 ![The Value of Everything](https://cdn-images-1.medium.com/max/600/0*mUG9uY6GqFvMg1l7.jpg)
 
-Mariana Mazzucato’s [The Value of Everything](https://www.amazon.com/Value-Everything-Making-Taking-Economy/dp/161039674X?tag=kortina0e-20) is part critique of the ‘financialization’ of all modern institutions and part history of the theory of value. What I found most interesting about this book were not any of the specific recommendations Mazzucato suggests for rescuing the economy, but her elucidation of many of the basic premises and assumptions that underly many of the most fundamental measures we have of economic health of nations (eg, GDP).
+Mariana Mazzucato’s [The Value of Everything](https://www.amazon.com/Value-Everything-Making-Taking-Economy/dp/161039674X?tag={{ site.amazon_tag }}) is part critique of the ‘financialization’ of all modern institutions and part history of the theory of value. What I found most interesting about this book were not any of the specific recommendations Mazzucato suggests for rescuing the economy, but her elucidation of many of the basic premises and assumptions that underly many of the most fundamental measures we have of economic health of nations (eg, GDP).
 
 Here are some of the bits I particularly enjoyed:
 
@@ -178,7 +178,7 @@ Basically, one of Mazzucato’s key arguments in this book is that we under acco
 
 While I’m not completely sold we are under-valuing government, I learned a ton of economics history from this book and highly recommend reading the whole thing:
 
-**Mariana Mazzucato’s **[**The Value of Everything**](https://www.amazon.com/Value-Everything-Making-Taking-Economy/dp/161039674X?tag=kortina0e-20)**.**
+**Mariana Mazzucato’s **[**The Value of Everything**](https://www.amazon.com/Value-Everything-Making-Taking-Economy/dp/161039674X?tag={{ site.amazon_tag }})**.**
 
 ---
 

@@ -8,7 +8,7 @@ author: "kortina"
 
 ![Propaganda](https://cdn-images-1.medium.com/max/800/0*ySRCjK5ht5EaKaER.jpg)
 
-The tone of Edward Bernays’ [Propaganda](https://www.amazon.com/Propaganda-Edward-Bernays/dp/0970312598?tag=kortina0e-20) is like that of small child, who, completely lacking self awareness, says the thing that everyone is thinking but would never dare utter aloud for the sake of maintaining a sense of decency: “The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country.”
+The tone of Edward Bernays’ [Propaganda](https://www.amazon.com/Propaganda-Edward-Bernays/dp/0970312598?tag={{ site.amazon_tag }}) is like that of small child, who, completely lacking self awareness, says the thing that everyone is thinking but would never dare utter aloud for the sake of maintaining a sense of decency: “The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country.”
 
 I don’t recall where I came across this book, as it was originally written in 1928 and clearly dated in many ways. But it is short, fascinating, and still rings very true, albeit in a more cynical way.
 
@@ -68,5 +68,5 @@ Politics were the first big business in America:
 
 ---
 
-Edward Bernays’ little book [Propaganda](https://www.amazon.com/Propaganda-Edward-Bernays/dp/0970312598?tag=kortina0e-20) is short and worth the read.
+Edward Bernays’ little book [Propaganda](https://www.amazon.com/Propaganda-Edward-Bernays/dp/0970312598?tag={{ site.amazon_tag }}) is short and worth the read.
 

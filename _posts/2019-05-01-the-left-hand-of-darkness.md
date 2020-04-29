@@ -8,7 +8,7 @@ author: "kortina"
 
 ![The Left Hand of Darkness](https://cdn-images-1.medium.com/max/600/0*oOEpjgfmOtzomObV.jpg)
 
-Much has been said about the main thought in experiment in [The Left Hand of Darkness](https://www.amazon.com/Left-Hand-Darkness-Ursula-Guin/dp/0441478123?tag=kortina0e-20), Ursula K. LeGuin, the implications of a civilization without gender.
+Much has been said about the main thought in experiment in [The Left Hand of Darkness](https://www.amazon.com/Left-Hand-Darkness-Ursula-Guin/dp/0441478123?tag={{ site.amazon_tag }}), Ursula K. LeGuin, the implications of a civilization without gender.
 
 While it is absolutely worth reading for its merits on this idea alone, I also found it really interesting to observe the attitude and behavior of the protagonist, a sort of missionary of the central empire in the universe trying to bring the offerings of advanced civilization to a less developed world. I’ve read tons of 50,000 foot history of colonialism and imperialism, many first person narratives of colonized peoples, but few first hand narratives of meek, well intentioned missionaries like this one.
 

@@ -8,7 +8,7 @@ author: "kortina"
 
 ![Too Much Happiness, Alice Munro.](https://cdn-images-1.medium.com/max/600/1*jd_pufqseCRJoTpO-tqUjA.jpeg)
 
-I was recently watching some interviews with David Foster Wallace and heard him mention Alice Munro as one of his favorite writers. I looked her up, and the title [Too Much Happiness](https://www.amazon.com/Too-Much-Happiness-Vintage-International/dp/0307390349?tag=kortina0e-20) caught my eye.
+I was recently watching some interviews with David Foster Wallace and heard him mention Alice Munro as one of his favorite writers. I looked her up, and the title [Too Much Happiness](https://www.amazon.com/Too-Much-Happiness-Vintage-International/dp/0307390349?tag={{ site.amazon_tag }}) caught my eye.
 
 This is a collection of short stories, with maybe the unifying themes being grotesque / odd domestic life and meditation on death. I was surprised how dark the book is. Loved it =)
 

@@ -8,7 +8,7 @@ author: "kortina"
 
 ![How to Do Nothing.](https://cdn-images-1.medium.com/max/600/0*xGlceNTLs0E-b24V.jpg)
 
-Jenny Odell’s [how to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) talk was one of my favorite longform pieces I came across on the internet over the past few years, and she has now published an expanded version as a book: [How to Do Nothing: Resisting the Attention Economy](https://www.amazon.com/How-Do-Nothing-Resisting-Attention/dp/1612197493?tag=kortina0e-20).
+Jenny Odell’s [how to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) talk was one of my favorite longform pieces I came across on the internet over the past few years, and she has now published an expanded version as a book: [How to Do Nothing: Resisting the Attention Economy](https://www.amazon.com/How-Do-Nothing-Resisting-Attention/dp/1612197493?tag={{ site.amazon_tag }}).
 
 Although the title may suggest another recipe for ‘[waldenponding](https://mailchi.mp/ribbonfarm/against-waldenponding),’ Odell does justice to the nuance of modern connectivity / complexity and recounts some of the failure modes of “heading for the hills”
 
@@ -40,5 +40,5 @@ My other favorite passage, an important reminder (and why I like public spaces a
 
 ---
 
-[How to Do Nothing: Resisting the Attention Economy](https://www.amazon.com/How-Do-Nothing-Resisting-Attention/dp/1612197493?tag=kortina0e-20), Jenny Odell.
+[How to Do Nothing: Resisting the Attention Economy](https://www.amazon.com/How-Do-Nothing-Resisting-Attention/dp/1612197493?tag={{ site.amazon_tag }}), Jenny Odell.
 

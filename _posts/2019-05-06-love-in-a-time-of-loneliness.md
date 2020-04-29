@@ -8,7 +8,7 @@ author: "kortina"
 
 ![Love in a Time of Loneliness.](https://cdn-images-1.medium.com/max/600/0*fBTea_cvcKlh7MYi.jpg)
 
-After repeated exchanges of Slavoj Zizek YouTube videos back and forth — also possibly in response to a stint of film clubs that Rob and I hosted which all dealt with paranoia in some way or another (#[11](http://oaklandfilmclub.com/posts/film-club-11-ace-in-the-hole/), #[12](http://oaklandfilmclub.com/posts/film-club-12-gaslight/), #[13](http://oaklandfilmclub.com/posts/film-club-13-american-psycho/), #[15](http://oaklandfilmclub.com/posts/film-club-15-perfect-blue/)) — my neighbor loaned me Paul Verhaeghe’s [Love in a Time of Loneliness](https://www.amazon.com/Love-Time-Loneliness-Paul-Verhaeghe/dp/1855756986?tag=kortina0e-20). (This is the same neighbor that loaned me Gregory and Mary Catherine Bateson’s [Angels Fear](https://medium.com/@kortina/angels-fear-towards-an-epistemology-of-the-sacred-5b055f7d9f54), btw.)
+After repeated exchanges of Slavoj Zizek YouTube videos back and forth — also possibly in response to a stint of film clubs that Rob and I hosted which all dealt with paranoia in some way or another (#[11](http://oaklandfilmclub.com/posts/film-club-11-ace-in-the-hole/), #[12](http://oaklandfilmclub.com/posts/film-club-12-gaslight/), #[13](http://oaklandfilmclub.com/posts/film-club-13-american-psycho/), #[15](http://oaklandfilmclub.com/posts/film-club-15-perfect-blue/)) — my neighbor loaned me Paul Verhaeghe’s [Love in a Time of Loneliness](https://www.amazon.com/Love-Time-Loneliness-Paul-Verhaeghe/dp/1855756986?tag={{ site.amazon_tag }}). (This is the same neighbor that loaned me Gregory and Mary Catherine Bateson’s [Angels Fear](https://medium.com/@kortina/angels-fear-towards-an-epistemology-of-the-sacred-5b055f7d9f54), btw.)
 
 It took me awhile to get around to this one, and even longer to get into it. I did not love the first essay, but was really into the second two. A few of the interesting bits…
 
@@ -99,5 +99,5 @@ He ends with the duality of Eros and Thanatos, life and death, and an interestin
 
 ---
 
-I biased towards anicent and modern philosophy in school, and most of my knowledge of postmodernism comes through art, literature, and film, not philosophy / academia. So for me, Paul Verhaeghe’s [Love in a Time of Loneliness](https://www.amazon.com/Love-Time-Loneliness-Paul-Verhaeghe/dp/1855756986?tag=kortina0e-20) was a nice, easy intro to a bunch of postmodernist academic thinking.
+I biased towards anicent and modern philosophy in school, and most of my knowledge of postmodernism comes through art, literature, and film, not philosophy / academia. So for me, Paul Verhaeghe’s [Love in a Time of Loneliness](https://www.amazon.com/Love-Time-Loneliness-Paul-Verhaeghe/dp/1855756986?tag={{ site.amazon_tag }}) was a nice, easy intro to a bunch of postmodernist academic thinking.
 

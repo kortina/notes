@@ -9,7 +9,7 @@ author: "kortina"
 ![Arnade](https://cdn-images-1.medium.com/max/2560/0*EJUf0-rmrbOcP0id)
 From Chris Arnade’s **Dignity***.*
 
-Dignity is a favorite topic of mine (in essays like [The Beautiful Struggle // The Beautiful Game](https://kortina.nyc/essays/the-beautiful-struggle-the-beautiful-game/), [Consciousness as Computation](https://kortina.nyc/essays/consciousness-as-computation-learning-from-deep-learning-and-information-theory/), and [many others](https://kortina.nyc/work/)), and I recently read Chris Arnade’s new book bearing this name, [Dignity: Seeking Respect in Back Row America](https://www.amazon.com/Dignity-Seeking-Respect-Back-America/dp/0525534733?tag=kortina0e-20).
+Dignity is a favorite topic of mine (in essays like [The Beautiful Struggle // The Beautiful Game](https://kortina.nyc/essays/the-beautiful-struggle-the-beautiful-game/), [Consciousness as Computation](https://kortina.nyc/essays/consciousness-as-computation-learning-from-deep-learning-and-information-theory/), and [many others](https://kortina.nyc/work/)), and I recently read Chris Arnade’s new book bearing this name, [Dignity: Seeking Respect in Back Row America](https://www.amazon.com/Dignity-Seeking-Respect-Back-America/dp/0525534733?tag={{ site.amazon_tag }}).
 
 While I found this book a bit repetitive and meandering, I found the photos riveting and the narrative compassionate. It is definitely worth picking up a copy.
 

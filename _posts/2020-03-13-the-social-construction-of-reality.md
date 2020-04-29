@@ -10,7 +10,7 @@ author: "kortina"
 
 Over the past year or so, I’ve been reading different works that try to explain how we collectively make sense of the world, given that we are a social species — stuff like [Public Opinion](https://medium.com/@kortina/public-opinion-b84d5e8a13e4) and [Propaganda](https://medium.com/@kortina/propaganda-cca9e4b3f997).
 
-I just finished another classic on this topic, Berger and Luckmann’s [The Social Construction of Reality](https://www.amazon.com/Social-Construction-Reality-Sociology-Knowledge/dp/0385058985?tag=kortina0e-20).
+I just finished another classic on this topic, Berger and Luckmann’s [The Social Construction of Reality](https://www.amazon.com/Social-Construction-Reality-Sociology-Knowledge/dp/0385058985?tag={{ site.amazon_tag }}).
 
 Here are some of my favorite bits.
 
@@ -114,5 +114,5 @@ The trick society plays on the individual to make a bundle of contingencies appe
 
 Read it:
 
-- [The Social Construction of Reality](https://www.amazon.com/Social-Construction-Reality-Sociology-Knowledge/dp/0385058985?tag=kortina0e-20)
+- [The Social Construction of Reality](https://www.amazon.com/Social-Construction-Reality-Sociology-Knowledge/dp/0385058985?tag={{ site.amazon_tag }})
 

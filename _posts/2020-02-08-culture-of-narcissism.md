@@ -8,7 +8,7 @@ author: "kortina"
 
 ![The Culture of Narcissism](https://cdn-images-1.medium.com/max/600/0*IP9UcQK1EiBCzIdU.jpg)
 
-I don’t remember where I heard about Christopher Lasch’s [The Culture of Narcissism](https://www.amazon.com/Culture-Narcissism-American-Diminishing-Expectations/dp/0393307387?tag=kortina0e-20), but when I began reading it, I wasn’t sure when it was written. As I started reading, I thought it must have been published post-President-Trump, but getting further into it, a bunch of psychoanalytic framing made it feel a bit more dated (but still very good). It was written in 1979, but feels very appropriate for addressing our predicament today.
+I don’t remember where I heard about Christopher Lasch’s [The Culture of Narcissism](https://www.amazon.com/Culture-Narcissism-American-Diminishing-Expectations/dp/0393307387?tag={{ site.amazon_tag }}), but when I began reading it, I wasn’t sure when it was written. As I started reading, I thought it must have been published post-President-Trump, but getting further into it, a bunch of psychoanalytic framing made it feel a bit more dated (but still very good). It was written in 1979, but feels very appropriate for addressing our predicament today.
 
 If you liked [The Revolt of the Public and the Crisis of Authority in the New Millennium](https://medium.com/@kortina/the-revolt-of-the-public-and-the-crisis-of-authority-in-the-new-millennium-6158f2fcb488), you’ll enjoy this book from last millennium.
 

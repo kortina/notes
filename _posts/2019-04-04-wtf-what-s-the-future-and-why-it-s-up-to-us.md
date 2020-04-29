@@ -6,7 +6,7 @@ author: "kortina"
 ---
 
 
-In response to my essay [History of the Capital AI & Market Failures in the Attention Economy](https://kortina.nyc/essays/market-failures-in-the-attention-economy/), a few people recommended I read [WTF?: What’s the Future and Why It’s Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/B0742L34QP/ref=sr_1_fkmr0_1?tag=kortina0e-20), by Tim O’Reilly.
+In response to my essay [History of the Capital AI & Market Failures in the Attention Economy](https://kortina.nyc/essays/market-failures-in-the-attention-economy/), a few people recommended I read [WTF?: What’s the Future and Why It’s Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/B0742L34QP/ref=sr_1_fkmr0_1?tag={{ site.amazon_tag }}), by Tim O’Reilly.
 
 ![](https://cdn-images-1.medium.com/max/600/0*OpDwgJ6nfxgoEfrv.jpg)
 
@@ -56,7 +56,7 @@ It is not only capitalists pursuing profit that put downward pressure on labor�
 
 ---
 
-*Excerpts from: *[*WTF?: What’s the Future and Why It’s Up to Us*](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/B0742L34QP/ref=sr_1_fkmr0_1?tag=kortina0e-20)*, by Tim O’Reilly.*
+*Excerpts from: *[*WTF?: What’s the Future and Why It’s Up to Us*](https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/B0742L34QP/ref=sr_1_fkmr0_1?tag={{ site.amazon_tag }})*, by Tim O’Reilly.*
 
 *Read next: *[*History of the Capital AI & Market Failures in the Attention Economy*](https://kortina.nyc/essays/market-failures-in-the-attention-economy/)*.*
 

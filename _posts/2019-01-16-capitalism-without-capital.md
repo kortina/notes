@@ -8,7 +8,7 @@ author: "kortina"
 
 ![](https://cdn-images-1.medium.com/max/600/0*QwZ1XWhsijE2bRlX.jpg)
 
-Haskel and Westlake’s [Capitalism without Capital](https://www.amazon.com/Capitalism-Without-Capital-Intangible-Economy/dp/B07883T9XS/ref=tmm_aud_swatch_0?tag=kortina0e-20) boils down to an analysis of the causes and implications of a shift from tangible to intangible assets in the modern economy.
+Haskel and Westlake’s [Capitalism without Capital](https://www.amazon.com/Capitalism-Without-Capital-Intangible-Economy/dp/B07883T9XS/ref=tmm_aud_swatch_0?tag={{ site.amazon_tag }}) boils down to an analysis of the causes and implications of a shift from tangible to intangible assets in the modern economy.
 
 I found the chapter on **Management and Monitoring** the most interesting — I have said in the past I think the next job threatened by mass automation is not the driver but the middle manager, which I think is an implication shared by this chapter. (Also, I never made the connection between Coase and Hayek before.) …
 

@@ -8,7 +8,7 @@ author: "kortina"
 
 ![The Leopard](https://cdn-images-1.medium.com/max/600/0*pkJo7Bzgamqo3hrB.jpg)
 
-My neighbor recently recommended Giuseppe Tomasi di Lampedusa’s [The Leopard](https://www.amazon.com/Leopard-Giuseppe-Tomasi-Lampedusa/dp/1522633774?tag=kortina0e-20) (same neighbor who recommended [The Things They Carried](https://medium.com/@kortina/the-things-they-carried-7f0773ccc9b3) btw).
+My neighbor recently recommended Giuseppe Tomasi di Lampedusa’s [The Leopard](https://www.amazon.com/Leopard-Giuseppe-Tomasi-Lampedusa/dp/1522633774?tag={{ site.amazon_tag }}) (same neighbor who recommended [The Things They Carried](https://medium.com/@kortina/the-things-they-carried-7f0773ccc9b3) btw).
 
 I just finished it and found it very timely — it’s a sort of elegy about the end of a generation of aristocracy, caught between revolution and bureaucracy.
 
@@ -56,6 +56,6 @@ Idleness was the purpose of power:
 
 Read next:
 
-- Giuseppe Tomasi di Lampedusa’s [The Leopard](https://www.amazon.com/Leopard-Giuseppe-Tomasi-Lampedusa/dp/1522633774?tag=kortina0e-20)
+- Giuseppe Tomasi di Lampedusa’s [The Leopard](https://www.amazon.com/Leopard-Giuseppe-Tomasi-Lampedusa/dp/1522633774?tag={{ site.amazon_tag }})
 - [The Emperor Has No Clothes, There is No Santa Claus, and Nothing is Rocket Science](https://kortina.nyc/essays/the-emperor-has-no-clothes-there-is-no-santa-claus-and-nothing-is-rocket-science/)
 

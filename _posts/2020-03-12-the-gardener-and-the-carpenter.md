@@ -8,9 +8,9 @@ author: "kortina"
 
 ![The Gardener and the Carpenter.](https://cdn-images-1.medium.com/max/600/0*6uFrglpiqPnAapkw.jpg)
 
-A few years ago I read Alison Gopnik’s [The Philosophical Baby](https://www.amazon.com/Philosophical-Baby-Childrens-Minds-Meaning/dp/0312429843?tag=kortina0e-20) and found her efforts to understand the human mind — which blend ideas from cognitive development, computer science, philosophy, storytelling, and psychology — to be very simpatico with my own attempts to understand the workings of the brain. I mentioned some of her ideas on narrative thinking vs logical argument in [Social Systems are Computations that Minimize Uncertainty](https://kortina.nyc/essays/social-systems-are-computations-that-minimize-uncertainty/).
+A few years ago I read Alison Gopnik’s [The Philosophical Baby](https://www.amazon.com/Philosophical-Baby-Childrens-Minds-Meaning/dp/0312429843?tag={{ site.amazon_tag }}) and found her efforts to understand the human mind — which blend ideas from cognitive development, computer science, philosophy, storytelling, and psychology — to be very simpatico with my own attempts to understand the workings of the brain. I mentioned some of her ideas on narrative thinking vs logical argument in [Social Systems are Computations that Minimize Uncertainty](https://kortina.nyc/essays/social-systems-are-computations-that-minimize-uncertainty/).
 
-I just finished another of her books, [The Gardener and The Carpenter](https://www.amazon.com/Gardener-Carpenter-Development-Relationship-Children/dp/1536617830?tag=kortina0e-20), an exploration of the phenomenon of non-reciprocal love (exhibited, for example, by alloparents and grandparents).
+I just finished another of her books, [The Gardener and The Carpenter](https://www.amazon.com/Gardener-Carpenter-Development-Relationship-Children/dp/1536617830?tag={{ site.amazon_tag }}), an exploration of the phenomenon of non-reciprocal love (exhibited, for example, by alloparents and grandparents).
 
 It got me thinking about how in the US we typically talk about the rights you are born with, but rarely talk about the debts you are born with (eg, the debts you owe to the parents / alloparents / grandparents who raised you, the debts you owe to culture or education, etc), and that a greater awareness of / framing of these assets inherited might help promote the non-reciprocal caretaking Gopnik thinks we need more of.
 
@@ -130,7 +130,7 @@ I definitely recommend this book.
 
 Links:
 
-- [The Gardener and The Carpenter](https://www.amazon.com/Gardener-Carpenter-Development-Relationship-Children/dp/1536617830?tag=kortina0e-20)
-- [The Philosophical Baby](https://www.amazon.com/Philosophical-Baby-Childrens-Minds-Meaning/dp/0312429843?tag=kortina0e-20)
+- [The Gardener and The Carpenter](https://www.amazon.com/Gardener-Carpenter-Development-Relationship-Children/dp/1536617830?tag={{ site.amazon_tag }})
+- [The Philosophical Baby](https://www.amazon.com/Philosophical-Baby-Childrens-Minds-Meaning/dp/0312429843?tag={{ site.amazon_tag }})
 - [Social Systems are Computations that Minimize Uncertainty](https://kortina.nyc/essays/social-systems-are-computations-that-minimize-uncertainty/)
 

@@ -8,7 +8,7 @@ author: "kortina"
 
 ![Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms](https://cdn-images-1.medium.com/max/600/1*ek45jeLY2iUnapviBofXaQ.jpeg)
 
-In response to a bunch of the points I made in [Principles for Radical Tax Reform](https://kortina.nyc/essays/principles-for-radical-tax-reform-and-a-universal-dividend/) and [Speech is Free, Distribution is Not](https://kortina.nyc/essays/speech-is-free-distribution-is-not-a-tax-on-the-purchase-of-human-attention-and-political-power/) about the distribution of power across network according to power laws, a friend pointed me to Geoffrey West’s [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life, in Organisms, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms-dp-B071YNQM2T/dp/B071YNQM2T/ref=mt_audio_download?tag=kortina0e-20).
+In response to a bunch of the points I made in [Principles for Radical Tax Reform](https://kortina.nyc/essays/principles-for-radical-tax-reform-and-a-universal-dividend/) and [Speech is Free, Distribution is Not](https://kortina.nyc/essays/speech-is-free-distribution-is-not-a-tax-on-the-purchase-of-human-attention-and-political-power/) about the distribution of power across network according to power laws, a friend pointed me to Geoffrey West’s [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life, in Organisms, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms-dp-B071YNQM2T/dp/B071YNQM2T/ref=mt_audio_download?tag={{ site.amazon_tag }}).
 
 Unsurprisingly, I love the scope / breadth / ambition of this book, all of which it does a pretty good job of living up to.
 
@@ -96,5 +96,5 @@ West concludes not with a specific solution to this predicament, only a call for
 
 ---
 
-Geoffrey West’s [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life, in Organisms, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms-dp-B071YNQM2T/dp/B071YNQM2T/ref=mt_audio_download?tag=kortina0e-20) is a very important book, very worth your time…
+Geoffrey West’s [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life, in Organisms, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms-dp-B071YNQM2T/dp/B071YNQM2T/ref=mt_audio_download?tag={{ site.amazon_tag }}) is a very important book, very worth your time…
 

@@ -9,7 +9,7 @@ author: "kortina"
 ![Principal 2x2 from Four Futures: Life After Capitalism.](https://cdn-images-1.medium.com/max/1200/1*jgrpeqAGszalYYM3-lldpw.png)
 
 
-I just read Peter Frase’s [Four Futures: Life After Capitalism](https://www.amazon.com/Four-Futures-After-Capitalism-Jacobin-ebook/dp/B00N6PCK7W/ref=tmm_kin_swatch_0?tag=kortina0e-20) twice — like [The Lessons of History](https://medium.com/@kortina/the-lessons-of-history-1295f489db14), it is both concise and full of great thinking, a rare occurrence. What is particularly refreshing about this discussion of what might come after capitalism is that it is neither utopian nor dystopian. Rather, the basic approach is to frame the possibilities as a 2x2 matrix, with an abundance/scarcity axis and a hierarchy/equality axis.
+I just read Peter Frase’s [Four Futures: Life After Capitalism](https://www.amazon.com/Four-Futures-After-Capitalism-Jacobin-ebook/dp/B00N6PCK7W/ref=tmm_kin_swatch_0?tag={{ site.amazon_tag }}) twice — like [The Lessons of History](https://medium.com/@kortina/the-lessons-of-history-1295f489db14), it is both concise and full of great thinking, a rare occurrence. What is particularly refreshing about this discussion of what might come after capitalism is that it is neither utopian nor dystopian. Rather, the basic approach is to frame the possibilities as a 2x2 matrix, with an abundance/scarcity axis and a hierarchy/equality axis.
 
 It mixes a bit of science fiction with history and political philosophy and is one of the more sober bits of futurism I have read.
 
@@ -55,5 +55,5 @@ If you were going to reduce from 4 to just 2 possibilities, this sounds about ri
 
 ---
 
-I highly Rx reading Peter Frase’s [Four Futures: Life After Capitalism](https://www.amazon.com/Four-Futures-After-Capitalism-Jacobin-ebook/dp/B00N6PCK7W/ref=tmm_kin_swatch_0?tag=kortina0e-20) in full.
+I highly Rx reading Peter Frase’s [Four Futures: Life After Capitalism](https://www.amazon.com/Four-Futures-After-Capitalism-Jacobin-ebook/dp/B00N6PCK7W/ref=tmm_kin_swatch_0?tag={{ site.amazon_tag }}) in full.
 

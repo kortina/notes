@@ -8,7 +8,7 @@ author: "kortina"
 
 ![The Things They Carried](https://cdn-images-1.medium.com/max/600/0*K-9tu6s4vKh4fJ8f.jpg)
 
-After we did [The Deer Hunter](http://oaklandfilmclub.com/posts/film-club-23-the-deer-hunter/) for film club, a friend (who was doctor in Vietnam during the war) recommend Tim O’Brien’s [The Things They Carried](https://www.amazon.com/Things-They-Carried-Tim-OBrien/dp/0618706410?tag=kortina0e-20).
+After we did [The Deer Hunter](http://oaklandfilmclub.com/posts/film-club-23-the-deer-hunter/) for film club, a friend (who was doctor in Vietnam during the war) recommend Tim O’Brien’s [The Things They Carried](https://www.amazon.com/Things-They-Carried-Tim-OBrien/dp/0618706410?tag={{ site.amazon_tag }}).
 
 I really enjoyed this book — it read kind of like a Vietnam memoir written in the style of a David Foster Wallace essay with the grim / unflinching gaze of Cormac McCarthy.
 
@@ -50,5 +50,5 @@ These are a few of my favorite passages…
 
 ---
 
-— [The Things They Carried](https://www.amazon.com/Things-They-Carried-Tim-OBrien/dp/0618706410?tag=kortina0e-20), Tim O’Brien
+— [The Things They Carried](https://www.amazon.com/Things-They-Carried-Tim-OBrien/dp/0618706410?tag={{ site.amazon_tag }}), Tim O’Brien
 

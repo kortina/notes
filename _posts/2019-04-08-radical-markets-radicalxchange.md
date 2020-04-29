@@ -11,7 +11,7 @@ In response to some recent posts ([History of the Capital AI & Market Failures i
 
 I did a very cursory bit of background research and found that RadicalxChange was philosophically aligned with many of my own core beliefs — mistrust of centralized institutions, belief in incentive design and markets as a decentralized coordination mechanism, acknowledgment of the failure of the current dominant form of democratic capitalism, etc — I decided to go (also, I had been intending to go visit the birthplace of Stevie Wonder, Detroit, for years…).
 
-The conference was excellent and led me to many bits of homework which I wanted to share here (including the book which was the inspiration for the conference, [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503?tag=kortina0e-20), by Weyl and Posner, which I’ll post detailed notes about below).
+The conference was excellent and led me to many bits of homework which I wanted to share here (including the book which was the inspiration for the conference, [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503?tag={{ site.amazon_tag }}), by Weyl and Posner, which I’ll post detailed notes about below).
 
 Sections:
 [Notes + Links from RadicalxChange](https://medium.com/@kortina/f1f9952c1023#3277)
@@ -38,7 +38,7 @@ More links from the conference…
 
 [Daniel Stone](https://twitter.com/d_f_stone?lang=en) presented an interesting idea for a news service that forced polarized authors to read articles from opposing POV before publishing: [Media Trades](https://www.bowdoin.edu/profiles/faculty/dstone/media-trades.pdf).
 
-[A Fire Upon the Deep](https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285?tag=kortina0e-20), Vernor Vinge. (homework)
+[A Fire Upon the Deep](https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285?tag={{ site.amazon_tag }}), Vernor Vinge. (homework)
 
 [Daniel Kronovet](https://twitter.com/kronosapiens?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) did a cool talk on using a survey of pairwise comparisons to derive a budget for a group: [Budget Box](https://kronosapiens.github.io/budgetbox-slides.pdf).
 
@@ -117,7 +117,7 @@ Tyler Cowen posted a short list of concerns about the tendencies towards which p
 
 #### Data as Labor
 
-Building on analysis of Jaron Lanier in [Who Owns the Future?](https://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979?tag=kortina0e-20), the authors propose a scheme where large internet corporations pay users for data exhaust generated that serves as input to machine learning algorithms:
+Building on analysis of Jaron Lanier in [Who Owns the Future?](https://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979?tag={{ site.amazon_tag }}), the authors propose a scheme where large internet corporations pay users for data exhaust generated that serves as input to machine learning algorithms:
 
 > Just as with classical statistics, there is a second critical question that determines the marginal value of data: how important it is to solve each of the problems data allow ML to tackle. If simple, early problems have much greater value than later, more complex ones, data will have diminishing value. However, if later, harder problems are more valuable than earlier, easier ones, then data’s marginal value may increase as more data become available. A classic example of this is speech recognition. Early ML systems for speech recognition achieved gains in accuracy more quickly than did later systems. However, a speech recognition system with all but very high accuracy is mostly useless, as it takes so much time for the user to correct the errors it makes. This means that the last few percentage points of accuracy may make a bigger difference for the value of a system than the first 90% does. The marginal value grows to the extent that it allows this last gap to be filled.
 
@@ -161,5 +161,5 @@ I was discussing the above tax with Sam, and while there are many merits in prin
 
 To conclude, it is incredibly refreshing to see so much math / game theory / practical proposals around incentive design from the left (vs only a critique of existing power structures and proposals for a new and idealistic regime).
 
-I highly recommend [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503?tag=kortina0e-20).
+I highly recommend [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503?tag={{ site.amazon_tag }}).
 
