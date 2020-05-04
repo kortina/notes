@@ -4,6 +4,8 @@ title: "Woolf // A Room of One's Own"
 date: "2020-05-03"
 ---
 
+![virginia woolf](https://user-images.githubusercontent.com/5924/80987695-44d51b00-8de7-11ea-98ce-ba3a1638d117.png)
+
 I was talking to a friend a few months ago about time, the freedom to think and create and invest in
 yourself, how not every hour of the day is equally conducive to mental effort, how costly
 interruptions are, how hard it is to be creative after working 8 hours per day on anything else, and
