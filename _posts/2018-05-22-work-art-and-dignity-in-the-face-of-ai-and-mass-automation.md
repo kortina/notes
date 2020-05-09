@@ -5,12 +5,13 @@ date: "2018-05-22"
 author: "kortina"
 ---
 
-
 ![](https://cdn-images-1.medium.com/max/2560/1*aVH_s3bQ_Uazmh0bQC-bzg.jpeg)
 Her (2013).
 
-*Warning: the AV quality of this video is not the greatest — sorry!*
-Last weekend, I had the opportunity to speak at [FORM](https://experienceform.com/) with [Josh Constine](https://twitter.com/JoshConstine) about how accelerating progress in AI and mass automation might change the way we think about work, art, and human dignity. *(sidebar: *[*Arcosanti*](http://arcosanti.org/)* is a pretty incredible place that I had never heard of before this event, and I highly recommend checking it out.)*
+_Warning: the AV quality of this video is not the greatest — sorry!_
+Last weekend, I had the opportunity to speak at [FORM](https://experienceform.com/) with [Josh Constine](https://twitter.com/JoshConstine) about how accelerating progress in AI and mass automation might change the way we think about work, art, and human dignity. _(sidebar: _[_Arcosanti_](http://arcosanti.org/)_ is a pretty incredible place that I had never heard of before this event, and I highly recommend checking it out.)_
+
+{% include embed.html url="https://www.youtube.com/embed/UKdNX6nwB3Q" %}
 
 Preparing for this talk got me to zoom out and identify a bunch of the common themes that have been running through my thinking and writing for the past few years. In this post, I want to connect the dots between some of these essays, provide a little map organizing them, and link to some related works I recommend if you’re interested in these topics.
 
@@ -40,7 +41,7 @@ Preparing for this talk got me to zoom out and identify a bunch of the common th
 
 #### Related Reading
 
-[Who Owns the Future?](https://www.audible.com/pd?asin=B00DYY0EN2&amp;source_code=ASSORAP0511160006) Jaron Lanier is one of the most insightful thinkers I have read on labor and capital in the Information Age industrial revolution, current trends, and where things are headed. I’m not sure I buy his proposal for intellectual property rights for data exhaust as the solution, but nonetheless this book is definitely worth a read.
+[Who Owns the Future?](https://www.audible.com/pd?asin=B00DYY0EN2&source_code=ASSORAP0511160006) Jaron Lanier is one of the most insightful thinkers I have read on labor and capital in the Information Age industrial revolution, current trends, and where things are headed. I’m not sure I buy his proposal for intellectual property rights for data exhaust as the solution, but nonetheless this book is definitely worth a read.
 
 [The Economic and Philosophic Manuscripts of 1844](https://www.amazon.com/Philosophic-Manuscripts-Communist-Manifesto-Philosophy/dp/087975446X). To prep for the talk at Arcosanti, I went back and read some Marx. Specifically, I was interested in what Marx had to say about the psychological implications (viz, alienation) of industrialization and technological determinism. In many ways, a lot of the present day conversation about the economic and psychological implications of AI and mass automation are a re-run of conversations that happened during the industrial revolution.
 
@@ -48,7 +49,7 @@ Preparing for this talk got me to zoom out and identify a bunch of the common th
 
 [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/). When we were prepping for our talk, Josh pointed me to this sweeping essay from the Atlantic about the implications of technological unemployment. There are a bunch of good stats and anecdotes in here about some of the things already happening in the US labor market.
 
-[Man’s Search for Meaning.](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=) Viktor E. Frankl gives a first hand account of living in German concentration camps, and posits a path to meaning outside of work, beauty, art, or nature:
+[Man’s Search for Meaning.](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) Viktor E. Frankl gives a first hand account of living in German concentration camps, and posits a path to meaning outside of work, beauty, art, or nature:
 
 > An active life serves the purpose of giving man the opportunity to realize values in creative work, while a passive life of enjoyment affords him the opportunity to obtain fulfillment in experiencing beauty, art, or nature. But there is also purpose in that life which is almost barren of both creation and enjoyment and which admits of but one possibility of high moral behavior: namely, in man’s attitude to his existence, an existence restricted by external forces. A creative life and a life of enjoyment are banned to him. But not only creativeness and enjoyment are meaningful. If there is a meaning in life at all, then there must be a meaning in suffering.
 
@@ -60,5 +61,4 @@ What else should be on this list? [Let me know](mailto:andrew.kortina@gmail.com)
 
 ---
 
-*Subscribe to kindling, essays, et cetera at *[*kortina.nyc*](http://kortina.nyc/work/)
-
+_Subscribe to kindling, essays, et cetera at _[_kortina.nyc_](http://kortina.nyc/work/)
