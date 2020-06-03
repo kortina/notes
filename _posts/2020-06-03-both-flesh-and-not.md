@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Both Flesh and Not"
+title: "Wallace // Both Flesh and Not"
 date: "2020-06-03"
 ---
 

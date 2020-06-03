@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Making of Prince of Persia"
+title: "Mechner // The Making of Prince of Persia"
 date: "2020-06-03"
 ---
 

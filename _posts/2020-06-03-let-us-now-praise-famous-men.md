@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let Us Now Praise Famous Men"
+title: "Agee + Evans // Let Us Now Praise Famous Men"
 date: "2020-06-03"
 ---
 
