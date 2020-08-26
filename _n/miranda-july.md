@@ -1,7 +1,7 @@
 ---
 date: '2020-07-16'
 layout: post
-title: Miranda July // Miranda July
+title: July // Miranda July
 ---
 
 {% include embed.html url="https://user-images.githubusercontent.com/5924/87749983-07a9e380-c7af-11ea-8525-1d65f95af930.jpg" caption="Miranda July" %}
@@ -12,7 +12,7 @@ A few weeks ago, I saw her [interview on City Arts Lectures](https://www.youtube
 
 It's absolutely delightful, fun, inspiring, a ray of sunshine during the pandemic. I texted several friends before I finished it to get their addresses so I could send them copies.
 
-I love discovering someone where I get the feeling *I need to check out everything this person has ever made.*
+I love discovering someone where I get the feeling _I need to check out everything this person has ever made._
 
 ---
 
