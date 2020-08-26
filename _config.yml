@@ -7,6 +7,10 @@ google_analytics_account: 'UA-811458-10'
 permalink: /n/:title/
 author: kortina
 socialimg: ''
+collections:
+  n:
+    output: true
+    permalink: /n/:title/
 
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 future: true
