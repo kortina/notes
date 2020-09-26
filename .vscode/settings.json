@@ -1,4 +1,7 @@
 {
   "vscodeMarkdownNotes.newNoteDirectory": "_n",
-  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\ndate: ${date}\n---\n\n"
+  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\ndate: ${date}\n---\n\n",
+  "cSpell.words": [
+    "hypervigilance"
+  ]
 }
