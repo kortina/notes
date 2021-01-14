@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 'Vuong // On Earth We're Briefly Gorgeous'
+title: "Vuong // On Earth We're Briefly Gorgeous"
 author: kortina
-date: 2021-01-05
+date: 2021-01-04
 ---
 
-Compassion is the one word that came to mind again and again reading this book.
+Compassion is the one word that came to mind again and again reading Ocean Vuong's [On Earth We're Briefly Gorgeous](https://www.amazon.com/On-Earth-Were-Briefly-Gorgeous-audiobook/dp/B07PMFD9CK/).
+
+Specifically, the child's capacity for compassion and forgiveness of abusive adults is remarkable. It calls to mind a line from Michael Pollan's [How to Change Your Mind](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225): "It was the first time I saw my father as a son."
 
 ---
 
@@ -38,3 +40,17 @@ Some of my favorite bits
 ---
 
 > There are times, late at night, when your son would wake believing a bullet is lodged inside him. He’d feel it floating on the right side of his chest, just between the ribs. The bullet was always here, the boy thinks, older even than himself—and his bones, tendons, and veins had merely wrapped around the metal shard, sealing it inside him. It wasn’t me, the boy thinks, who was inside my mother’s womb, but this bullet, this seed I bloomed around. Even now, as the cold creeps in around him, he feels it poking out from his chest, slightly tenting his sweater. He feels for the protrusion but, as usual, finds nothing. It’s receded, he thinks. It wants to stay inside me. It is nothing without me. Because a bullet without a body is a song without ears.
+
+---
+
+> It was Hartford. It was a cluster of light that pulsed with a force I never realized it possessed. Maybe it was because his breaths were so clear to me then, how I imagined the oxygen in his throat, his lungs, the bronchi and blood vessels expanding, how it moved through all the places I’ll never see, that I keep returning to this most basic measurement of life, even long after he’s gone.
+> 
+> But for now, the city brims before us with a strange, rare brilliance—as if it was not a city at all, but the sparks made by some god sharpening his weapons above us.
+> 
+> “Fuck,” Trevor whispered. He put his hands in his pockets and spat on the ground.
+> 
+> “Fuck.”
+> 
+> The city throbbed, shimmered. Then, trying to snap himself out of it, he said, “Fuck Coca-Cola.”
+> 
+> “Yeah, Sprite for life, fuckers,” I added, not knowing then what I know now: that Coca-Cola and Sprite were made by the same damn company. That no matter who you are or what you love or where you stand, it was always Coca-Cola in the end.

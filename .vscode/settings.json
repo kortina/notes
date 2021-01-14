@@ -2,6 +2,10 @@
   "vscodeMarkdownNotes.newNoteDirectory": "_n",
   "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\ndate: ${date}\n---\n\n",
   "cSpell.words": [
+    "Arendt's",
+    "Pollan's",
+    "Vuong",
+    "Vuong's",
     "hypervigilance"
   ]
 }

@@ -1,4 +1,5 @@
 [[On Earth We're Briefly Gorgeous]]
+[[Thus Spoke Zarathustra]]
 [[Dreamland]]
 [[The One Inside]]
 [[antkind.md]]
