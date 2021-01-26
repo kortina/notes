@@ -1,0 +1,30 @@
+---
+layout: post
+title: 'Langewiesche // The Outlaw Sea'
+author: kortina
+date: 2021-01-26
+---
+
+I heard about [The Outlaw Sea](https://www.amazon.com/The-Outlaw-Sea-audiobook/dp/B00026WUOQ) via Venkatesh Rao -- [here](https://www.ribbonfarm.com/2009/08/27/the-outlaw-sea-by-william-langewiesche/) and more recently [here](https://breakingsmart.substack.com/p/involvement-capitalism). What got me really interested in reading this book (beyond the glowing recommendations) were the recent events in Washington, DC.
+
+Part of the popular public reaction has been to increase the power of the state -- it will be unsurprising if we don't end up with reactionary policy like the patriot act. But also interesting was the corporate response -- bans from Twitter, Facebook, even Stripe and AWS.
+
+My reaction to these reactions was that maybe this will be impetus necessary to bootstrap really decentralized networks and infrastructure (because it will inspire not only mistrust of governments, but of tech platforms).
+
+But decentralization itself is not a solution -- think about things like Craigslist, the dark web, bittorrent, crypto and blockchain. It's the wild west, and we trade risk of powerful platform owners abusing their power for the risk of a weakened ability to policy lots of bad in-network actors.
+
+The Outlaw Sea felt like a natural case study of this type of environment.
+
+I plan to do a much longer blog post about this in the future...
+
+Suffice to say for now -- **this book is awesome**.
+
+---
+
+I like this phrase "cheap political grandstanding" -- it is so hard to distinguish this from actual good intentions, especially when you're not close to the subject matter:
+
+> Europe realized that the future had arrived, and it reacted much as the United States had a decade before, making explicit reference to the Exxon Valdez and to America’s go-it-alone determination to defend its shores. Again the initiatives centered around the unilateral imposition of double hulls, though here too there was no reason to believe that a double-hull design (not inherently stronger than single-hull design and possibly more prone to corrosion) addressed the accident that had actually occurred. Europe was going to take action anyway, if only for symbolic effect. The French, who were the angriest just then, clearly understood the limitations of their geographic circumstances as compared to those of the United States. They realized that any imposition of new standards by France alone would have little effect on the parade of unsafe ships in the international waters off their shores, and would do economic damage to the country as the shipping industry shifted its trade to competing ports. The solution was regional action, specifically through the newly assertive executive branch of the European Union, the European Commission. Confident in the support of Europe’s vast environmentalist constituency, the Commission’s leaders took up the cause and proposed aggressive maritime reforms, including immediate double-hull requirements that leapfrogged over the American phase-out still in process. It seemed for several months that Europe was going to have its way—albeit by raising drawbridges and deflecting the disorder to other parts of the world, as the United States had done. This time, however, the IMO fought back: privately it accused the European Commission of technical ignorance and cheap political grandstanding, and in public it appealed to the high ideals of universal government. (Oddly, the United States joined in on the side of the IMO, deploring the regionalism of the European initiatives, a position greeted with bitterness by proponents of European coastal defense.) These arguments resonated, and by the end of 2000 the European Commission had essentially backed down. The shipping industry in return agreed to something like a false concession—an “accelerated” IMO phaseout of single-hull tankers, to be completed by 2015, though with loopholes and extensions that would allow many such ships to endure. There were some improvements in the application of port state controls. In the Netherlands, for instance, a ship-ranking system was put into place that forced the inspectors to board the most questionable vessels, rather than the newest ones, to achieve their quota of 25 percent; and in France it was now understood, almost as a cultural matter, that ship inspections had taken on the importance of national defense.
+
+---
+
+> Some of the escapees panicked, crawling around on the promenade and adding their own screams to those below, or begging hysterically for life vests, or sitting apathetically against the walls, or rushing to and fro without purpose, like terrified creatures losing the last ground in a flood. Such hopeless or incoherent people, however, turned out to be the exception. Despite the unusual danger that confronted them on the ship’s outsides, most of the escapees seemed to keep their wits about them and to remain effective even at severe angles of heel. A brutal selection was at play, by which those who had succeeded in gaining the promenade tended by definition to be precisely the sort of people who could best handle the threat that awaited them there. They were fast and strong, and capable of quick calculation. Though their actions once outside were largely self-centered, with personal survival predominating over other concerns, many of them proved capable of working together to achieve that end—preparing and deploying the heavy life rafts, for instance, or attempting to free the lifeboats, however impossible that turned out to be. A few went further. One man in particular comes to mind. He stood on the promenade looking completely composed, reassuring passengers around him that they would survive, patiently instructing people on how to don the life vests, and setting up an efficient system for the vests’ distribution. It was as if human society, having been torn apart, was starting to remake itself already—as if with time there could have been kings and queens on that drifting hull, and maybe even priests. But then the ocean washed them all away.
