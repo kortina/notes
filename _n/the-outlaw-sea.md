@@ -7,17 +7,19 @@ date: 2021-01-26
 
 I heard about [The Outlaw Sea](https://www.amazon.com/The-Outlaw-Sea-audiobook/dp/B00026WUOQ) via Venkatesh Rao -- [here](https://www.ribbonfarm.com/2009/08/27/the-outlaw-sea-by-william-langewiesche/) and more recently [here](https://breakingsmart.substack.com/p/involvement-capitalism). What got me really interested in reading this book (beyond the glowing recommendations) were the recent events in Washington, DC.
 
-Part of the popular public reaction has been to increase the power of the state -- it will be unsurprising if we don't end up with reactionary policy like the patriot act. But also interesting was the corporate response -- bans from Twitter, Facebook, even Stripe and AWS.
+Part of the popular public reaction has been calls to increase the power of the state (both to clamp down on such events and to prevent organizing them) -- it will be surprising if we don't end up with reactionary policy like the [Patriot Act](https://en.wikipedia.org/wiki/Patriot_Act).
 
-My reaction to these reactions was that maybe this will be impetus necessary to bootstrap really decentralized networks and infrastructure (because it will inspire not only mistrust of governments, but of tech platforms).
+Perhaps more interesting has been the corporate response -- bans of Trump and Parler by Twitter, Facebook, even Stripe and AWS.
 
-But decentralization itself is not a solution -- think about things like Craigslist, the dark web, bittorrent, crypto and blockchain. It's the wild west, and we trade risk of powerful platform owners abusing their power for the risk of a weakened ability to policy lots of bad in-network actors.
+My reaction to the political and corporate reactions: maybe this will inspire enough mistrust of government and of big tech platforms to finally serve as impetus necessary to bootstrap decentralized social/comms networks and infrastructure.
 
-The Outlaw Sea felt like a natural case study of this type of environment.
+While there are some attractive elements of such a shift, decentralization itself is not a solution -- think about things like Craigslist, the dark web, bittorrent, crypto and blockchain. It's the wild west, and we trade risk of powerful government institutions and platform owners abusing their power for the risk of a weakened ability to policy lots of bad in-network actors.
+
+The Outlaw Sea is a natural case study of this type of environment.
 
 I plan to do a much longer blog post about this in the future...
 
-Suffice to say for now -- **this book is awesome**.
+Suffice to say for now -- **this book is awesome** and timely.
 
 ---
 
