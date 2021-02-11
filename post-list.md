@@ -1,3 +1,5 @@
+[[The Real World of Democracy]]
+[[The Real World of Technology]]
 [[Man's Search for Meaning]]
 [[Manifesto for Maintenance Art, 1969]]
 [[The Outlaw Sea]]
